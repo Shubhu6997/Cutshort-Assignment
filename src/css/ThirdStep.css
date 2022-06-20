@@ -1,0 +1,23 @@
+.selection-container{
+   display: flex;
+   justify-content: center;
+}
+
+.self-container, .team-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 125px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffff;
+
+ }
+
+ .self-container:hover, .team-container:hover{
+   border: 1.5px solid #664de5;
+ }

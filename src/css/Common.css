@@ -1,0 +1,33 @@
+.sub-title p {
+    color: grey;
+    text-align: center;
+    font-size: 12px;
+} 
+.btn-container{
+    padding-top: 20px;
+}
+.step-btn{
+    background-color: #664de5;
+    color : gainsboro;
+    border: none;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.inputField{
+    padding: 5px;
+    width: 285px;
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    height: 25px;
+}
+
+.first-field-title, .second-field-title{
+    text-align: left;
+    font-size: 12px;
+}
+
+.field-container{
+    padding-top: 10px;
+}

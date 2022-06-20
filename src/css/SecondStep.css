@@ -1,0 +1,27 @@
+.url-field-container{
+    display: flex;
+}
+
+.url-field{
+    width: 90px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    height: 25px;
+    background-color: lightgrey;
+    font-size: 12px;
+}
+
+.url-input{
+    width: 185px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 5px;
+    border: 1px solid lightgrey;
+    height: 25px;
+}
+
+.second-field-title p label{
+    color: grey;
+}
